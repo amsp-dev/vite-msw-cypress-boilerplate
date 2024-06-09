@@ -1,0 +1,19 @@
+{
+  "results": [{
+    "title": "First Item Title",
+    "number": 1,
+    "linkHref" : "http://github.com",
+    "arrowLocation": "left"
+  },{
+    "title": "Second Item Title",
+    "number": 2,
+    "linkHref" : "http://github.com",
+    "arrowLocation": "right"
+  },
+  {
+    "title": "Third Item Title",
+    "number": 3,
+    "linkHref" : "http://github.com",
+    "arrowLocation": "right"
+  }]
+}
